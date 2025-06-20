@@ -35,14 +35,7 @@ part4/
 - 📦 `pip` (gestionnaire de paquets Python)
 - 🐳 Serveur MySQL opérationnel
 - 🌐 Navigateur Web moderne
-
-## 🚀 Installation
-
-1️⃣ **Récupérer le dépôt** :
-```bash
-git clone https://github.com/SoliraZ/holbertonschool-hbnb
-cd holbertonschool-hbnb/part4
-```
+  
 
 2️⃣ **Préparer l’environnement backend** :
 ```bash
